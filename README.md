@@ -1,4 +1,3 @@
-Hier ist die angepasste Datei im korrekten Markdown-Format auf Deutsch:
 
 # ChatGPT-System-Aufforderung
 
