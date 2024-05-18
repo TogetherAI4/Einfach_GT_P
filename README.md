@@ -342,14 +342,11 @@ GPTPromptGenius/](https://www.reddit.com/r/ChatGPTPromptGenius/)
 Erstellen Sie eine maßgeschneiderte Liste von ChatGPT-Anwendungen, die sorgfältig ausgewählt wurden, um meine berufliche Rolle als {USER INPUT} zu ergänzen. Dieser individuelle Leitfaden wird mich befähigen, das Potenzial von Copilot in verschiedenen Aspekten meiner Arbeit zu nutzen. Strukturieren Sie den Leitfaden in 10 klar definierte Kategorien, die nach ihrer Bedeutung für meinen Beruf priorisiert sind. Erstellen Sie für jede Kategorie eine Tabelle mit den Spalten „Anwendungsfall“ und „Beispielanforderung“. Füllen Sie jede Kategorie mit 5 Beispielen für Anwendungsfälle. Die „Beispielanforderung“ sollte als klarer Befehl an ChatGPT formuliert sein. Beginnen Sie damit, nach meinem Beruf zu fragen, und verwenden Sie diese Informationen, um den Inhalt auf meine spezifischen Interessen, Ziele und Herausforderungen abzustimmen. Stellen Sie sicher, dass der Leitfaden 10 Kategorien und 5 Anwendungsfallbeispiele pro Kategorie enthält und das angeforderte Format einhält.
 </details>
 
-### REPOS COLAB CAMENDURU
-<details>
-  <summary>Klicken Sie hier, um den Text aufzuklappen</summary>
-  
-  🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+
+### CamenDuru Colab Repos
+<details>
+  <summary>Super-Liste eigenständiges Deployen und lernen</summary>
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/InstantMesh-jupyter <br />
 🆕 https://github.com/camenduru/GRM-jupyter <br />
@@ -786,10 +783,11 @@ https://github.com/camenduru/HoudiniStudy <br />
 https://github.com/camenduru/BlenderStudy <br />
 https://github.com/camenduru/GrasshopperStudy <br />
 https://github.com/camenduru/UEStudy <br />
+</details>
 
+### Prompt Engineeering
 <details>
-  <summary>AI TOOLS</summary>
-
+  <summary>Super-Liste Prompt Engineering </summary>
 # Table of Contents
 
 - [Papers](#papers)
@@ -1051,30 +1049,7 @@ https://github.com/camenduru/UEStudy <br />
 - [Language Models and Prompt Engineering: Systematic Survey of Prompting Methods in NLP](https://youtube.com/watch?v=OsbUfL8w-mo&feature=shares)
 - [Prompt Engineering 101: Autocomplete, Zero-shot, One-shot, and Few-shot prompting](https://youtube.com/watch?v=v2gD8BHOaX4&feature=shares)
 
-   <details>
-  <summary>Klicken Sie hier, um den Text aufzuklappen</summary>
-
-      
-  ```markdown
-  Sie können auch Codeblöcke einfügen, wie zum Beispiel:
   
-  ```python
-  def hallo_welt():
-      print("Hallo, Welt!")
+</details>
 
 
-<details>
-  <summary>Klicken Sie hier, um den Text aufzuklappen</summary>
-
-
-### REPOS COLAB CAMENDURU
-<details>
-  <summary>Klicken Sie hier, um den Text aufzuklappen</summary>
-
-#### 👾 Study
-https://github.com/camenduru/HoudiniStudy <br />
-https://github.com/camenduru/BlenderStudy <br />
-https://github.com/camenduru/GrasshopperStudy <br />
-https://github.com/camenduru/UEStudy <br />
-
-  ```markdown
