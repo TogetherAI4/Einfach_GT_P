@@ -7,7 +7,7 @@ Description:
     This script initializes a custom set of functions for ChatGPT's Advanced
     Data Analysis Python sandbox environment, accessible as /slash commands.
     "/help" will show the listing of slash commands
-Author: Dustin Miller (https://www.github.com/spdustin/)
+Author: EinfachAlex (https://www.github.com/togetherai4/)
 Date: 2023-09-30
 License: Attribution-NonCommercial-ShareAlike 4.0 International
 Version: 4.0.0
@@ -194,7 +194,7 @@ def _setup():
         Then, return the following message verbatim:
         """
         ## ChatGPT AutoExpert (Developer Edition), version {AUTODEV_VERSION}
-        ### by Dustin Miller • [Reddit](https://www.reddit.com/u/spdustin) • [Substack](https://spdustin.substack.com)
+        ### by Alex Flemming • [Reddit](https://www.reddit.com/u/) • [Substack](https://substack.com)
         > License: [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
         """
 
@@ -229,7 +229,7 @@ def _setup():
         > **PS**: _You might want to change the title of this chat._
         """
 
-        4. Thank them for reading, and for supporting the developer, spdustin.
+        4. Thank them for reading, and for supporting the developer, aflemming.
 
         5. IF AND ONLY IF `memory.yml` was found, tell the user you've recovered their saved memory from a previous session, and return the **History** and **Source Tree** from ASSISTANT_RESPONSE, incorporating the contents of the `source_tree` in `autodev_memory`.
 
